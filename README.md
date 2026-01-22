@@ -25,5 +25,5 @@ function test_example() {
 
 This Example was made [GitHub Pages](https://pages.github.com/).
 
-![Screenshot of an Example photo.](https://stock.adobe.com/search?k=example)
+![Screenshot of an Example photo.]([https://myoctocat.com/assets/images/base-octocat.svg])
 
